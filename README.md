@@ -149,12 +149,10 @@ Instale o aplicativo no emulador através dos comandos abaixo de acordo com o si
 
 ```
 yarn android
-yarn ios
 ```
 ou
 ```
 npm android
-npm ios
 ```
 
 
