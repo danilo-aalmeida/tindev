@@ -16,16 +16,16 @@
 
 ## Descrição do Projeto
 
-<p align="justify">Projeto desenvolvido a partir do curso OmniStack 8 da Rocketseat :rocket: utilizando a stack Node.Js React e React Native</p>
+<p align="justify">Projeto desenvolvido a partir do curso OmniStack 8 da Rocketseat :rocket: utilizando a stack Node.Js, React e React Native</p>
 
-<p align="justify">A idéia é reproduzir um "Tinder" para desenvolvedores, onde o usuário informa o seu usuário do GitHub e para ele é apresentado uma lista já cadastrada de outros desenvolvedores nos quais podem ser atribuidos Likes :heart: ou Diskikes :x:. Quando houver uma combinação a aplicação informa os usuários em tempo real do "Match".</p>
+<p align="justify">A idéia é reproduzir um "Tinder" para desenvolvedores, onde o usuário informa o seu usuário do GitHub e para ele é apresentado uma lista já cadastrada de outros desenvolvedores nos quais podem ser atribuidos Likes :heart: ou Dislikes :x:. Quando houver uma combinação a aplicação informa aos usuários em tempo real sobre o "Match".</p>
 
 ## Funcionalidades
 
-:heavy_check_mark: Cadastrar usuário do GitHub (Ao logar-se na aplicação).
-:heavy_check_mark: Listar usuários cadastrados.
-:heavy_check_mark: Dar like ou dislike nos usuários.
-:heavy_check_mark: Informar Match aos usuários em caso de combinação.
+- :heavy_check_mark: Cadastrar usuário do GitHub (Ao logar-se na aplicação).
+- :heavy_check_mark: Listar usuários cadastrados.
+- :heavy_check_mark: Dar like ou dislike nos usuários.
+- :heavy_check_mark: Informar Match aos usuários em caso de combinação.
 
 ## Layout da Aplicação
 
@@ -59,7 +59,7 @@ git clone https://github.com/danilo-aalmeida/tindev.git
 Após ter feito o clone do projeto, navegue até o diretório do backend:
 
 ```
-cd caminho/omnistack-08/backend
+cd caminho/tindev/backend
 ```
 
 Instale as dependências:
@@ -87,7 +87,7 @@ npm dev
 Após ter feito o clone do projeto, navegue até o diretório do frontend:
 
 ```
-cd caminho/omnistack-08/frontend
+cd caminho/tindev/frontend
 ```
 
 Instale as dependências:
@@ -115,7 +115,7 @@ npm start
 Após ter feito o clone do projeto, navegue até o diretório do mobile:
 
 ```
-cd caminho/omnistack-08/mobile
+cd caminho/tindev/mobile
 ```
 
 Instale as dependências:
